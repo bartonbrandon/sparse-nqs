@@ -2,7 +2,7 @@
 
 Interpretable scaling behavior in sparse subnetwork representations of quantum states.
 
-This repository contains the code used for the experiments in our NeurIPS submission (Submission ID: 23794).
+This repository contains the code used for the experiments in [Interpretable Scaling Behavior in Sparse Subnetwork Representations of Quantum States](https://arxiv.org/abs/2505.22734).
 
 ---
 
